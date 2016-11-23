@@ -78,6 +78,7 @@
     <ClCompile Include="MySort.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="basix.h" />
     <ClInclude Include="MySort.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
